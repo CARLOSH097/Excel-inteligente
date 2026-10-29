@@ -1,0 +1,30 @@
+EXCEL INTELIGENTE — SITIO WEB INICIAL
+
+ARCHIVOS
+- index.html: contenido y estructura.
+- styles.css: diseño adaptable a computadora y celular.
+- script.js: menú móvil y comportamiento del formulario demostrativo.
+- assets/referencia-diseno.png: imagen de referencia visual.
+
+ANTES DE PUBLICAR
+1. Busca en index.html "https://wa.me/?text=" y reemplázalo con tu enlace real de WhatsApp. Formato: https://wa.me/519XXXXXXXX.
+2. Reemplaza contacto@tudominio.com con tu correo real.
+3. En cada botón "Más información" o "Ver opciones", agrega tu enlace de Hotmart o el enlace de compra correspondiente. Actualmente son enlaces internos de demostración.
+4. El formulario de guía no guarda correos ni envía archivos. Conéctalo a una plataforma de email marketing antes de usarlo con clientes.
+5. Revisa los nombres, precios, productos y afirmaciones. No se incluyen testimonios reales para evitar publicar opiniones inventadas.
+6. Abre index.html en el navegador para probarlo localmente.
+
+PUBLICAR GRATIS CON GITHUB PAGES (una opción)
+1. Crea una cuenta en https://github.com si no tienes una.
+2. Crea un repositorio público llamado excel-inteligente.
+3. Sube index.html, styles.css, script.js y la carpeta assets conservando la estructura.
+4. En el repositorio abre Settings > Pages.
+5. En "Build and deployment", elige "Deploy from a branch", selecciona la rama main y la carpeta /(root), y guarda.
+6. Espera a que termine la publicación. GitHub te mostrará una dirección del tipo https://TUUSUARIO.github.io/excel-inteligente/.
+7. Abre la dirección y prueba todos los enlaces desde celular y computadora.
+
+DOMINIO
+Puedes comenzar con la dirección gratuita de GitHub Pages. Un dominio propio como excelinteligente.com puede tener un coste anual y no es necesario para probar la idea. La disponibilidad del nombre debe verificarse antes de comprarlo.
+
+NOTA
+Este sitio es un prototipo inicial estático. No incluye carrito de compra, pasarela de pago, base de datos ni envío automático de correos. Para vender, enlaza los botones a las páginas de pago de Hotmart u otra plataforma confiable.
